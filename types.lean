@@ -11,4 +11,4 @@
 #check (1-2 : Int)
 
 -- this code will not compile
-#check String.append "hello" ["  ","world"]
+#check String.append "hello" [" ","world"]

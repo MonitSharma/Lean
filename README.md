@@ -48,9 +48,9 @@ Below is a list of resources available in this repository:
 
 | Serial Number | Title                               | Link                                             |
 |---------------|-------------------------------------|--------------------------------------------------|
-| 1             | Basic Introducton         | [Notion Webpage 1](https://vaulted-pelican-d82.notion.site/Getting-Started-with-Lean4-Theorem-Prover-0b6062d3b2f34c51bf4ea7f35abd3aab) |
-| 2             | Lean Tutorials                      | [LWork in progress](#)                              |
-| 3             | Sample Lean Projects                | [Work in Progress](#)                              |
+| 1             | Basic Introducton         | [Lecture 1](https://vaulted-pelican-d82.notion.site/Getting-Started-with-Lean4-Theorem-Prover-0b6062d3b2f34c51bf4ea7f35abd3aab) |
+| 2             | Lean Tutorials                      |                             |
+| 3             | Sample Lean Projects                |         |
 
 ## Support
 
